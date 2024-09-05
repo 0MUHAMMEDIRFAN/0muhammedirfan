@@ -21,5 +21,4 @@
 <!-- ![Metrics Svg](/github-metrics.svg) -->
 <picture>
 <img src="./github-metrics.svg" width="" />
-<img src="./github-metrics.svg" width="" />
 </picture>

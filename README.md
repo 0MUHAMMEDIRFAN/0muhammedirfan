@@ -18,4 +18,8 @@
 <a href="https://frappeframework.com/"><img height="20" src="https://raw.githubusercontent.com/frappe/frappe/develop/.github/frappe-framework-logo.svg"></a>
 </div>
 
-![Metrics Svg](/github-metrics.svg)
+<!-- ![Metrics Svg](/github-metrics.svg) -->
+<picture>
+<img src="./github-metrics.svg" width="" />
+<img src="./github-metrics.svg" width="" />
+</picture>

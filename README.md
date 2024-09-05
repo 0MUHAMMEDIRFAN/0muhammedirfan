@@ -17,3 +17,5 @@
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> </a>
 <a href="https://frappeframework.com/"><img height="20" src="https://raw.githubusercontent.com/frappe/frappe/develop/.github/frappe-framework-logo.svg"></a>
 </div>
+
+![Metrics Svg](/github-metrics.svg)

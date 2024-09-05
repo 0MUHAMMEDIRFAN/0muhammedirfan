@@ -1,4 +1,5 @@
-# The PROFESSIoNAL Developer
+# Hi World
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&pause=1000&color=20C20E&width=500&height=40&lines=I+AM+MUHAMMED+IRFAN+%F0%9F%98%8A;SOFTWARE+ENGINEER+%F0%9F%96%A5%EF%B8%8F)](https://git.io/typing-svg)
 
 [![Visits Badge](https://badges.pufler.dev/visits/0muhammedirfan/0muhammedirfan)](https://github.com/0muhammedirfan)
 [![X Badge](https://img.shields.io/badge/X-Profile-informational?style=flat&logo=x&logoColor=black&color=1CA2F1)](https://twitter.com/0muhammedirfan)

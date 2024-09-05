@@ -23,6 +23,7 @@
 ![Calendar Svg](/metrics.plugin.calendar.full.svg) -->
 <picture>
     <img src="./github-metrics.svg" width="" />
+    <img src="./metrics.plugin.isocalendar.fullyear.svg" width="" />
     <img src="./metrics.plugin.topics.icons.svg" width="" />
     <img src="./metrics.plugin.calendar.full.svg" width="" />
 </picture>

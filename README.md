@@ -1,5 +1,5 @@
 ##
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&pause=1000&color=20C20E&width=500&height=40&lines=I+AM+MUHAMMED+IRFAN+%F0%9F%98%8A;SOFTWARE+ENGINEER+%F0%9F%96%A5%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&pause=1000&color=20C20E&width=500&height=40&lines=Hi+There,+I+AM+MUHAMMED+IRFAN+%F0%9F%98%8A;SOFTWARE+ENGINEER+%F0%9F%96%A5%EF%B8%8F)](https://git.io/typing-svg)
 
 [![Visits Badge](https://badges.pufler.dev/visits/0muhammedirfan/0muhammedirfan)](https://github.com/0muhammedirfan)
 [![X Badge](https://img.shields.io/badge/X-Profile-informational?style=flat&logo=x&logoColor=black&color=1CA2F1)](https://twitter.com/0muhammedirfan)
@@ -18,12 +18,13 @@
 <a href="https://frappeframework.com/"><img height="20" src="https://raw.githubusercontent.com/frappe/frappe/develop/.github/frappe-framework-logo.svg"></a>
 </div>
 
-<!-- ![Metrics Svg](/github-metrics.svg)
+![Metrics Svg](/github-metrics.svg)
 ![Topics Svg](/metrics.plugin.topics.icons.svg)
-![Calendar Svg](/metrics.plugin.calendar.full.svg) -->
-<picture>
+![Calendar Svg](/metrics.plugin.calendar.full.svg)
+![Starred Svg](/metrics.plugin.topics.icons.svg)
+<!-- <picture>
     <img src="./github-metrics.svg" width="" />
     <img src="./metrics.plugin.isocalendar.fullyear.svg" width="" />
-    <img src="./metrics.plugin.topics.icons.svg" width="" />
     <img src="./metrics.plugin.calendar.full.svg" width="" />
-</picture>
+    <img src="./metrics.plugin.topics.icons.svg" width="" />
+</picture> -->

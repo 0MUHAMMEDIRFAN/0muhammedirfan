@@ -20,8 +20,9 @@
 
 ![Metrics Svg](/github-metrics.svg)
 ![Topics Svg](/metrics.plugin.isocalendar.fullyear.svg)
-![Calendar Svg](/metrics.plugin.calendar.full.svg)
+<!--![Calendar Svg](/metrics.plugin.calendar.full.svg)
 ![Starred Svg](/metrics.plugin.topics.icons.svg)
+-->
 <!-- <picture>
     <img src="./github-metrics.svg" width="" />
     <img src="./metrics.plugin.isocalendar.fullyear.svg" width="" />
